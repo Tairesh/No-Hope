@@ -7,7 +7,7 @@
     "maintainers": [ "Night_Pryanik" ],
     "description": "Harder, harsher Cataclysm.",
     "category": "content",
-    "dependencies": [ "dda" ]
-    "version": 0.2
+    "dependencies": [ "dda" ],
+    "version": "0.3"
   }
 ]
