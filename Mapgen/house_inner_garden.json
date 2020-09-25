@@ -43,8 +43,8 @@
       },
       "furniture": { "a": "f_displaycase" },
       "place_vehicles": [
-        { "vehicle": "showroom_small_vehicles", "x": 17, "y": 5, "rotation": 270, "chance": 20, "status": 0 },
-        { "vehicle": "showroom_small_vehicles", "x": 19, "y": 5, "rotation": 270, "chance": 20, "status": 0 }
+        { "vehicle": "showroom_small_vehicles", "x": 17, "y": 5, "rotation": 270, "chance": 20 },
+        { "vehicle": "showroom_small_vehicles", "x": 19, "y": 5, "rotation": 270, "chance": 20 }
       ],
       "items": {
         "E": { "item": "coat_rack", "chance": 30, "repeat": [ 1, 4 ] },

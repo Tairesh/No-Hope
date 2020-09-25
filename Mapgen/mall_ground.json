@@ -1108,22 +1108,22 @@
         { "monster": "GROUP_MALL", "x": [ 96, 119 ], "y": [ 0, 23 ], "density": 0.2 }
       ],
       "place_vehicles": [
-        { "vehicle": "lux_rv", "x": 15, "y": 15, "chance": 30, "rotation": 0, "status": 0 },
-        { "vehicle": "canoe", "x": 14, "y": 6, "chance": 50, "rotation": 0, "status": 0 },
-        { "vehicle": "kayak", "x": 19, "y": 7, "chance": 50, "rotation": 0, "status": 0 },
-        { "vehicle": "kayak_racing", "x": 9, "y": 7, "chance": 50, "rotation": 180, "status": 0 },
-        { "vehicle": "wood_rowboat_double", "x": 9, "y": 2, "chance": 50, "rotation": 90, "status": 0 },
-        { "vehicle": "boat_motor_single", "x": 17, "y": 4, "chance": 50, "rotation": 270, "status": 0 },
-        { "vehicle": "motorcycle_cross", "x": 26, "y": 2, "chance": 50, "rotation": 90, "status": 0 },
-        { "vehicle": "bicycle_electric", "x": 28, "y": 2, "chance": 50, "rotation": 90, "status": 0 },
-        { "vehicle": "motorcycle_enduro", "x": 30, "y": 2, "chance": 50, "rotation": 90, "status": 0 },
-        { "vehicle": "scooter_electric", "x": 32, "y": 2, "chance": 50, "rotation": 90, "status": 0 },
-        { "vehicle": "tandem", "x": 34, "y": 2, "chance": 50, "rotation": 90, "status": 0 },
-        { "vehicle": "tricycle", "x": 36, "y": 6, "chance": 50, "rotation": 0, "status": 0 },
-        { "vehicle": "unicycle", "x": 36, "y": 8, "chance": 50, "rotation": 0, "status": 0 },
-        { "vehicle": "golf_cart", "x": 27, "y": 7, "chance": 50, "rotation": 90, "status": 0 },
-        { "vehicle": "quad_bike", "x": 30, "y": 7, "chance": 50, "rotation": 90, "status": 0 },
-        { "vehicle": "golf_cart_4seat", "x": 34, "y": 7, "chance": 50, "rotation": 90, "status": 0 },
+        { "vehicle": "lux_rv", "x": 15, "y": 15, "chance": 30, "rotation": 0 },
+        { "vehicle": "canoe", "x": 14, "y": 6, "chance": 50, "rotation": 0 },
+        { "vehicle": "kayak", "x": 19, "y": 7, "chance": 50, "rotation": 0 },
+        { "vehicle": "kayak_racing", "x": 9, "y": 7, "chance": 50, "rotation": 180 },
+        { "vehicle": "wood_rowboat_double", "x": 9, "y": 2, "chance": 50, "rotation": 90 },
+        { "vehicle": "boat_motor_single", "x": 17, "y": 4, "chance": 50, "rotation": 270 },
+        { "vehicle": "motorcycle_cross", "x": 26, "y": 2, "chance": 50, "rotation": 90 },
+        { "vehicle": "bicycle_electric", "x": 28, "y": 2, "chance": 50, "rotation": 90 },
+        { "vehicle": "motorcycle_enduro", "x": 30, "y": 2, "chance": 50, "rotation": 90 },
+        { "vehicle": "scooter_electric", "x": 32, "y": 2, "chance": 50, "rotation": 90 },
+        { "vehicle": "tandem", "x": 34, "y": 2, "chance": 50, "rotation": 90 },
+        { "vehicle": "tricycle", "x": 36, "y": 6, "chance": 50, "rotation": 0 },
+        { "vehicle": "unicycle", "x": 36, "y": 8, "chance": 50, "rotation": 0 },
+        { "vehicle": "golf_cart", "x": 27, "y": 7, "chance": 50, "rotation": 90 },
+        { "vehicle": "quad_bike", "x": 30, "y": 7, "chance": 50, "rotation": 90 },
+        { "vehicle": "golf_cart_4seat", "x": 34, "y": 7, "chance": 50, "rotation": 90 },
         { "vehicle": "car", "x": 93, "y": 7, "chance": 35, "rotation": 0 },
         { "vehicle": "car", "x": 93, "y": 14, "chance": 35, "rotation": 0 },
         { "vehicle": "beetle", "x": 93, "y": 20, "chance": 35, "rotation": 0 },
@@ -1264,7 +1264,7 @@
         { "vehicle": "car", "x": 4, "y": 3, "chance": 35, "rotation": 0 },
         { "vehicle": "pickup", "x": 5, "y": 19, "chance": 35, "rotation": 0 },
         { "vehicle": "hippie_van", "x": 25, "y": 19, "chance": 35, "rotation": 0 },
-        { "vehicle": "tricycle", "x": 90, "y": 22, "chance": 30, "status": 0 }
+        { "vehicle": "tricycle", "x": 90, "y": 22, "chance": 30 }
       ]
     }
   },
@@ -1542,10 +1542,10 @@
         { "vehicle": "car", "x": 27, "y": 9, "chance": 35, "rotation": 0 },
         { "vehicle": "car_sports", "x": 26, "y": 16, "chance": 35, "rotation": 180 },
         { "vehicle": "car_mini", "x": 26, "y": 21, "chance": 35, "rotation": 180 },
-        { "vehicle": "tricycle", "x": 74, "y": 4, "chance": 20, "status": 0 },
-        { "vehicle": "tricycle", "x": 75, "y": 4, "chance": 20, "status": 0 },
-        { "vehicle": "tricycle", "x": 78, "y": 4, "chance": 20, "status": 0 },
-        { "vehicle": "tricycle", "x": 79, "y": 4, "chance": 20, "status": 0 }
+        { "vehicle": "tricycle", "x": 74, "y": 4, "chance": 20 },
+        { "vehicle": "tricycle", "x": 75, "y": 4, "chance": 20 },
+        { "vehicle": "tricycle", "x": 78, "y": 4, "chance": 20 },
+        { "vehicle": "tricycle", "x": 79, "y": 4, "chance": 20 }
       ]
     }
   },
