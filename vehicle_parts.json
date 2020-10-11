@@ -40,5 +40,21 @@
       "install": { "skills": [ [ "mechanics", 5 ], [ "electronics", 5 ] ] },
       "removal": { "skills": [ [ "mechanics", 3 ] ] }
     }
+  },
+  {
+    "type": "vehicle_part",
+    "id": "plating_bone",
+    "name": "bone plating",
+    "symbol": ")",
+    "color": "white",
+    "broken_symbol": ")",
+    "broken_color": "light_gray",
+    "durability": 120,
+    "item": "bone_plate",
+    "difficulty": 2,
+    "location": "armor",
+    "flags": [ "ARMOR" ],
+    "breaks_into": [ { "item": "bone_tainted", "count": [ 10, 30 ] } ],
+    "damage_reduction": { "all": 18 }
   }
 ]
