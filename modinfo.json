@@ -8,6 +8,6 @@
     "description": "Harder, harsher Cataclysm.",
     "category": "content",
     "dependencies": [ "dda" ],
-    "version": "0.5"
+    "version": "0.6"
   }
 ]
