@@ -473,7 +473,7 @@
     "vision_night": 40,
     "luminance": 25,
     "harvest": "zombie_meatslug",
-    "special_attacks": [ 
+    "special_attacks": [
       [ "flaming_eye_warming_up", 10 ],
       {
         "type": "spell",
@@ -482,6 +482,33 @@
         "monster_message": "A piercing beam of light bursts forth!"
       }
     ],
+    "death_function": [ "NORMAL" ],
+    "flags": [ "SEES", "WARM", "FLIES", "FIREY", "NO_BREATHE", "NOHEAD" ]
+  },
+  {
+    "id": "mon_staring_eye",
+    "type": "MONSTER",
+    "name": { "str": "staring eye" },
+    "description": "An enormous disembodied eyeball the size of a person, flying through the air through some unknown agency.  Its unearthly presence filling you with dread at the prospect of falling under its baleful gaze.",
+    "default_faction": "nether",
+    "species": [ "NETHER" ],
+    "diff": 20,
+    "volume": "62500 ml",
+    "weight": "81500 g",
+    "hp": 300,
+    "speed": 90,
+    "material": [ "flesh" ],
+    "symbol": "e",
+    "color": "light_blue",
+    "morale": 100,
+    "melee_cut": 0,
+    "dodge": 1,
+    "armor_bash": 4,
+    "vision_day": 50,
+    "vision_night": 40,
+    "luminance": 25,
+    "harvest": "zombie_meatslug",
+    "special_attacks": [ [ "STARE", 12 ] ],
     "death_function": [ "NORMAL" ],
     "flags": [ "SEES", "WARM", "FLIES", "FIREY", "NO_BREATHE", "NOHEAD" ]
   }
