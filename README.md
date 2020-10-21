@@ -1,5 +1,13 @@
 # No-Hope
 
+The mod is based on the old lore where there was a full-scale war with China with many months of preceding marauding and civil disorder. Thus the world with the mod will be much more damaged overall, there will be much less loot etc.
+
+Mod has two major goals. The first and the most important one is to make Cataclysm harder and harsher. To achieve this goal, I decreased loot spawn, made most houses spawn damaged, as well as most cars, and some other changes.
+
+The second goal is to return back the original lore and content to the game. To achieve this goal, I returned many removed content, returned old descriptions to monsters, items etc, returned old snippets, and some other changes.
+
+Despite I’m standing for realism side in “realism vs. gamism” debate in vanilla, in this mod I’m changing my priority for balance and gameplay. If realism is standing in the way of FUN, I’m throwing the realism out.
+
 # List of features
 - Returned most of the cut “sillynonsense” and other inappropriate (for vanilla) content, including, but not limited to: Rivtech and Leadworks guns, flaming melee weapons, tainted tornado and sewer brew, Fusion Blaster CBM, makeshift scrap firearms, underbarrel flamethrower, atomic cars, laser turret (rewrote description to mention it’s working not on the solar panels, but rather on compact yet powerful storage batteries; updated drop list to reflect that), chickenbot, tankbot and tripod and made it spawn in some military locations, bone armor (for vehicles and player).
 
