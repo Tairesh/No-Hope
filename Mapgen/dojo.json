@@ -35,7 +35,7 @@
       "terrain": {
         " ": [ [ "t_grass", 5 ], [ "t_grass_long", 2 ], "t_dirt" ],
         "p": "t_grass_long",
-        "'": "t_door_c",
+        "'": [ [ "t_door_b", 20 ], [ "t_door_frame", 10 ], [ "t_door_o", 70 ], [ "t_door_c", 5 ], [ "t_door_locked_interior", 3 ] ],
         "+": "t_door_glass_c",
         ",": "t_pavement_y",
         "-": "t_pavement",
