@@ -43,7 +43,7 @@
         "g": "t_reinforced_glass",
         "G": "t_reinforced_door_glass_c",
         "H": "t_reinforced_door_glass_o",
-        "D": "t_door_c",
+        "D": [ [ "t_door_b", 20 ], [ "t_door_frame", 10 ], [ "t_door_o", 70 ], [ "t_door_c", 5 ], [ "t_door_locked_interior", 3 ] ],
         "4": "t_gutter_downspout",
         "<": "t_stairs_up",
         "C": "t_dirt"

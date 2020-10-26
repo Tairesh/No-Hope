@@ -187,7 +187,7 @@
         "l": "t_floor",
         "S": "t_floor",
         "T": "t_floor",
-        "+": "t_door_c",
+        "+": [ [ "t_door_b", 20 ], [ "t_door_frame", 10 ], [ "t_door_o", 70 ], [ "t_door_c", 5 ], [ "t_door_locked_interior", 3 ] ],
         "-": "t_brick_wall",
         ".": "t_dirt",
         "P": "t_dirt",
@@ -198,7 +198,7 @@
         "n": "t_dirt",
         "o": "t_dirt",
         "s": "t_grass",
-        "w": "t_window",
+        "w": [ [ "t_window_frame", 70 ], [ "t_window_empty", 20 ], [ "t_window", 5 ] ],
         "{": "t_floor",
         "4": "t_gutter_downspout",
         "|": "t_chainfence"

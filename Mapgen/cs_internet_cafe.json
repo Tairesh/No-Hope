@@ -37,7 +37,7 @@
         ",": "t_floor",
         "|": "t_wall_w",
         "s": "t_sidewalk",
-        "D": "t_door_c",
+        "D": [ [ "t_door_b", 20 ], [ "t_door_frame", 10 ], [ "t_door_o", 70 ], [ "t_door_c", 5 ], [ "t_door_locked_interior", 3 ] ],
         "g": "t_wall_glass_alarm",
         "G": "t_door_glass_c",
         "<": "t_stairs_up",

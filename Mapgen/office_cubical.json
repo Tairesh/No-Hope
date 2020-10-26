@@ -35,11 +35,11 @@
       "terrain": {
         " ": "t_region_groundcover_urban",
         "$": "t_region_shrub_decorative",
-        "+": "t_door_c",
+        "+": [ [ "t_door_b", 20 ], [ "t_door_frame", 10 ], [ "t_door_o", 70 ], [ "t_door_c", 5 ], [ "t_door_locked_interior", 3 ] ],
         "-": "t_wall_w",
         "D": "t_door_locked",
         "s": "t_sidewalk",
-        "w": "t_window",
+        "w": [ [ "t_window_frame", 70 ], [ "t_window_empty", 20 ], [ "t_window", 5 ] ],
         "|": "t_wall_w",
         "4": "t_gutter_downspout"
       },
@@ -165,12 +165,20 @@
       "terrain": {
         " ": "t_region_groundcover_urban",
         "$": "t_region_shrub_decorative",
-        "+": "t_door_c",
+        "+": [ [ "t_door_b", 20 ], [ "t_door_frame", 10 ], [ "t_door_o", 70 ], [ "t_door_c", 5 ], [ "t_door_locked_interior", 3 ] ],
         "-": "t_wall_w",
         "D": "t_door_locked",
         "s": "t_sidewalk",
-        "W": "t_window_domestic",
-        "w": "t_window",
+        "W": [
+        [ "t_window_frame", 70 ],
+        [ "t_window_empty", 20 ],
+        [ "t_window_domestic", 5 ],
+        "t_window_no_curtains",
+        "t_window_open",
+        "t_window_no_curtains_open",
+        [ "t_curtains", 5 ]
+      ],
+        "w": [ [ "t_window_frame", 70 ], [ "t_window_empty", 20 ], [ "t_window", 5 ] ],
         "|": "t_wall_w",
         "#": "t_brick_wall",
         "R": "t_sidewalk",

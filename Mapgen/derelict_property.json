@@ -33,7 +33,7 @@
       ],
       "terrain": {
         "#": "t_underbrush_harvested_winter",
-        "+": "t_door_c",
+        "+": [ [ "t_door_b", 20 ], [ "t_door_frame", 10 ], [ "t_door_o", 70 ], [ "t_door_c", 5 ], [ "t_door_locked_interior", 3 ] ],
         ".": "t_grass",
         "1": "t_tree_young",
         "4": "t_tree_pine",

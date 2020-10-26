@@ -44,7 +44,7 @@
       "terrain": {
         " ": "t_sidewalk",
         "#": "t_linoleum_white",
-        "+": "t_door_c",
+        "+": [ [ "t_door_b", 20 ], [ "t_door_frame", 10 ], [ "t_door_o", 70 ], [ "t_door_c", 5 ], [ "t_door_locked_interior", 3 ] ],
         "-": "t_wall_r",
         ".": "t_floor",
         "F": "t_linoleum_white",
@@ -209,7 +209,7 @@
         "*": "t_region_shrub",
         "#": "t_linoleum_white",
         "D": "t_door_locked",
-        "+": "t_door_c",
+        "+": [ [ "t_door_b", 20 ], [ "t_door_frame", 10 ], [ "t_door_o", 70 ], [ "t_door_c", 5 ], [ "t_door_locked_interior", 3 ] ],
         ".": "t_floor",
         "b": "t_sidewalk",
         "F": "t_linoleum_white",
