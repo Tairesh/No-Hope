@@ -139,6 +139,7 @@
     "symbol": ":",
     "color": "light_gray",
     "location": "barrel",
+    "install_time": "0 s",
     "mod_targets": [ "smg", "rifle", "shotgun", "pistol" ],
     "damage_modifier": { "damage_type": "bullet", "amount": 3 },
     "dispersion_modifier": -45,
@@ -155,6 +156,7 @@
     "price": 0,
     "volume": "0 ml",
     "dispersion_modifier": 0,
+    "install_time": "0 s",
     "range_modifier": -6,
     "flags": [ "IRREMOVABLE" ]
   },
@@ -179,6 +181,7 @@
     "symbol": ":",
     "color": "light_red",
     "location": "underbarrel",
+    "install_time": "0 s",
     "mod_targets": [ "rifle", "shotgun", "smg", "crossbow", "launcher" ],
     "gun_data": { "ammo": "flammable", "skill": "launcher", "range": 1, "dispersion": 300, "durability": 10 },
     "min_skills": [ [ "weapon", 2 ], [ "launcher", 1 ] ],
