@@ -1337,7 +1337,7 @@
       ],
       "palettes": [ "necropolis_a" ],
       "terrain": { "Z": "t_floor", "l": "t_floor", "u": "t_floor", "z": "t_floor" },
-      "gaspumps": { "&": {  } },
+      "gaspumps": { "&": { "amount": [ 0, 100 ] } },
       "place_monsters": [
         { "monster": "GROUP_NECROPOLIS", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.1 },
         { "monster": "GROUP_NECROPOLIS", "x": [ 25, 46 ], "y": [ 1, 22 ], "density": 0.1 },
@@ -1356,7 +1356,7 @@
     },
     "om_terrain": [ [ "necropolis_a_76", "necropolis_a_77", "necropolis_a_78" ] ],
     "type": "mapgen",
-    "weight": 250
+    "weight": 10000
   },
   {
     "method": "json",
