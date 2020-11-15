@@ -123,12 +123,12 @@
       {
         "description": "Wrecked vehicles",
         "weight": 2000,
-        "vehicle_json": { "vehicle": "highway_wr", "placement": "road_wreck_t", "number": [ 2, 3 ], "fuel": -1, "status": 1 }
+        "vehicle_json": { "vehicle": "highway_wr", "placement": "road_wreck_t", "number": [ 2, 3 ], "fuel": 0, "status": 1 }
       },
       {
         "description": "Wrecked vehicles",
         "weight": 2000,
-        "vehicle_json": { "vehicle": "highway_wr", "placement": "road_wreck_b", "number": [ 2, 3 ], "fuel": -1, "status": 1 }
+        "vehicle_json": { "vehicle": "highway_wr", "placement": "road_wreck_b", "number": [ 2, 3 ], "fuel": 0, "status": 1 }
       },
       {
         "description": "Wrecked vehicles",
