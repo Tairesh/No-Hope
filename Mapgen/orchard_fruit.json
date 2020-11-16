@@ -61,7 +61,7 @@
         { "item": "supplies_farming", "x": 6, "y": 7, "chance": 15 },
         { "item": "supplies_farming", "x": 3, "y": 9, "chance": 99 }
       ],
-      "sealed_item": { "p": { "items": { "item": "farming_seeds", "chance": 50 }, "furniture": "f_plant_harvest" } },
+      "sealed_item": { "p": { "items": { "item": "farming_seeds", "chance": 100 }, "furniture": "f_plant_harvest" } },
       "place_monsters": [
         { "monster": "GROUP_PARK_SCENIC", "x": 12, "y": 14, "chance": 2 },
         { "monster": "GROUP_PARK_ANIMAL", "x": [ 3, 20 ], "y": [ 16, 20 ], "repeat": 2 }
@@ -132,7 +132,7 @@
         { "item": "supplies_farming", "x": 4, "y": 11, "chance": 15 },
         { "item": "supplies_farming", "x": 6, "y": 7, "chance": 15 }
       ],
-      "sealed_item": { "p": { "items": { "item": "farming_seeds", "chance": 50 }, "furniture": "f_plant_harvest" } },
+      "sealed_item": { "p": { "items": { "item": "farming_seeds", "chance": 100 }, "furniture": "f_plant_harvest" } },
       "place_monsters": [
         { "monster": "GROUP_PARK_SCENIC", "x": 12, "y": 14, "chance": 2 },
         { "monster": "GROUP_PARK_ANIMAL", "x": [ 3, 20 ], "y": [ 16, 20 ], "repeat": 2 }
