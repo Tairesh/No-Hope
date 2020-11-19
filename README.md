@@ -23,7 +23,7 @@ Despite I’m standing for realism side in “realism vs. gamism” debate in va
 
 - Updated domestic mapgen pallette so now any window in most houses will spawn shattered with 70% chance or fully smashed to frame (20% chance). Intact windows will spawn only with remaining 10% chance. The same for wooden doors: 60% chance to spawn open (imagine it was pryed open), 20% chance to spawn closed but damaged, 10% chance to spawn smashed to frame. Intact doors will spawn only with remaining 10% chance.
 
-- Removed most of the guaranteed loot spawn in every location in the game. I tried to merge these changes into vanilla (https://github.com/CleverRaven/Cataclysm-DDA/pull/44581 5), and in the end I’d say it wasn’t successful. But in my mod the chances to spawn guaranteed loot was dropped to 50-80%.
+- Removed most of the guaranteed loot spawn in every location in the game. The chances to spawn guaranteed loot was dropped to 50-80%.
 
 - Returned moose’s legendary aggression. Now it’s the good old machine of destruction as it used to be.
 
