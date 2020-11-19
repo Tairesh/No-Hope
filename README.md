@@ -29,6 +29,10 @@ Despite I’m standing for realism side in “realism vs. gamism” debate in va
 
 - Integrated “Mutant NPCs” mod. I like the idea, it’s fun, so why not?
 
-- Returned back flaming eye’s ray of destruction (see below in comments for more info). Removed flaming eye’s STARE attack. Added almost identical monster - staring eye with STARE attack.
+- Returned back flaming eye’s ray of destruction. Removed flaming eye’s STARE attack. Added almost identical monster - staring eye with STARE attack.
 
 - Made hiding additional options when examining workbench-type furniture on by default.
+
+- Removed all one-tile puddles of infinite water in all forest types.
+
+- Made all gas stations have 0 - 100 units of fuel instead of vanilla 40000 - 50000 units. Also made almost all locations in mapgen have the same 0 - 100 units of fuel, including avgas.
