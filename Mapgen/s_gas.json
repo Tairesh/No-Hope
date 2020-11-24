@@ -42,7 +42,7 @@
         "s": "t_little_column",
         "|": "t_chainfence_v"
       },
-      "gaspumps": { "G": { "fuel": "gasoline", "amount": [ 0, 100 ] }, "D": { "fuel": "diesel", "amount": [ 0, 100 ] } },
+      "gaspumps": { "G": { "fuel": "gasoline", "amount": [ 0, 1000 ] }, "D": { "fuel": "diesel", "amount": [ 0, 1000 ] } },
       "furniture": { "9": "f_aut_gas_console" },
       "signs": { "P": { "signage": "Danger!  Do not smoke!  Risk of explosion!" } },
       "vendingmachines": { "1": { "item_group": "vending_drink" }, "2": { "item_group": "vending_food" } },
@@ -226,7 +226,7 @@
         "R": "f_shower"
       },
       "toilets": { ";": {  } },
-      "gaspumps": { "G": { "fuel": "gasoline", "amount": [ 0, 100 ] }, "D": { "fuel": "diesel", "amount": [ 0, 100 ] } },
+      "gaspumps": { "G": { "fuel": "gasoline", "amount": [ 0, 1000 ] }, "D": { "fuel": "diesel", "amount": [ 0, 1000 ] } },
       "place_items": [
         { "item": "bed", "x": [ 2, 3 ], "y": [ 19, 20 ], "chance": 80 },
         { "item": "dresser", "x": 2, "y": 21, "chance": 5 },
