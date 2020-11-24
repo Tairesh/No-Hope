@@ -398,7 +398,10 @@
           "mx_point_burned_ground": 500,
           "mx_casings": 30,
           "mx_corpses": 30,
-          "mx_mass_grave": 5
+          "mx_mass_grave": 5,
+          "mx_bandits_ambush": 10,
+          "mx_bandits_grave": 1,
+          "mx_bandits_outpost": 8
         }
       },
       "forest_thick": {
@@ -427,7 +430,10 @@
           "mx_point_burned_ground": 500,
           "mx_casings": 30,
           "mx_corpses": 30,
-          "mx_mass_grave": 5
+          "mx_mass_grave": 5,
+          "mx_bandits_ambush": 20,
+          "mx_bandits_grave": 5,
+          "mx_bandits_outpost": 20
         }
       },
       "forest_water": {
@@ -455,7 +461,10 @@
           "mx_casings": 30,
           "mx_corpses": 30,
           "mx_nest_dermatik": 10,
-          "mx_mass_grave": 5
+          "mx_mass_grave": 5,
+          "mx_bandits_ambush": 20,
+          "mx_bandits_grave": 10,
+          "mx_bandits_outpost": 25
         }
       },
       "field": {
@@ -480,7 +489,11 @@
           "mx_corpses": 3,
           "mx_nest_wasp": 2,
           "mx_mass_grave": 5,
-          "mx_grave": 5
+          "mx_grave": 5,
+          "mx_bandits_ambush": 10,
+          "mx_bandits_campsite": 5,
+          "mx_bandits_grave": 2,
+          "mx_bandits_outpost": 2
         }
       },
       "road": {
@@ -501,7 +514,9 @@
           "mx_mayhem": 50,
           "mx_casings": 100,
           "mx_corpses": 30,
-          "mx_prison_bus": 15
+          "mx_prison_bus": 15,
+          "mx_bandits_ambush": 30,
+          "mx_bandits_rv": 300000
         }
       },
       "bridgehead_ground": { "chance": 5, "extras": { "mx_minefield": 100 } },
@@ -520,13 +535,15 @@
           "mx_point_burned_ground": 5,
           "mx_casings": 30,
           "mx_looters": 10,
-          "mx_corpses": 30
+          "mx_corpses": 30,
+          "mx_bandits_ambush": 50,
+          "mx_bandits_hideout": 50
         }
       },
       "marloss": { "chance": 20, "extras": { "mx_marloss_pilgrimage": 100 } },
       "subway": {
         "chance": 75,
-        "extras": { "mx_military": 5, "mx_science": 12, "mx_collegekids": 15, "mx_portal": 7, "mx_portal_in": 3, "mx_casings": 30 }
+        "extras": { "mx_military": 5, "mx_science": 12, "mx_collegekids": 15, "mx_portal": 7, "mx_portal_in": 3, "mx_casings": 30, "mx_bandits_ambush": 20 }
       },
       "research_facility_lot": {
         "chance": 3,

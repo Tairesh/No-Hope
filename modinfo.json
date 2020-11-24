@@ -8,7 +8,7 @@
     "description": "Harder, harsher Cataclysm.",
     "category": "content",
     "dependencies": [ "dda" ],
-    "version": "1.7"
+    "version": "1.8"
   },
   {
     "type": "monster_adjustment",
