@@ -35,4 +35,4 @@ Despite I’m standing for realism side in “realism vs. gamism” debate in va
 
 - Removed all one-tile puddles of infinite water in all forest types.
 
-- Made all gas stations have 0 - 100 units of fuel instead of vanilla 40000 - 50000 units. Also made almost all locations in mapgen have the same 0 - 100 units of fuel, including avgas. Also made almost all cars have zero fuel. There are places and cars where you could still find fuel, they are just very rare.
+- Made all gas stations have 0 - 100 units of fuel instead of vanilla 40000 - 50000 units. Also made almost all locations in mapgen have the same 0 - 5000 units of fuel, including avgas. Also made almost all cars have zero fuel. There are places and cars where you could still find fuel, they are just very rare.
