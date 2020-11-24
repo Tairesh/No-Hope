@@ -654,7 +654,7 @@
       "T": "f_toilet"
     },
     "toilets": { "T": {  } },
-    "gaspumps": { "!": { "fuel": "gasoline", "amount": [ 0, 1000 ] } },
+    "gaspumps": { "!": { "fuel": "gasoline", "amount": [ 0, 5000 ] } },
     "vendingmachines": { "D": { "item_group": "vending_drink" }, "F": { "item_group": "vending_food" } }
   }
 ]
