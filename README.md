@@ -31,8 +31,6 @@ Despite I'm standing for realism side in "realism vs. gamism" debate in vanilla,
 
 - Made zombies don't revive by default. Reviving has some serious issues that can't be easy fixed, so until these issues are to be resolved, I'm disabling zombie resurrection in my mod.
 
-- Made zombies don't bleed. Zombies' hearts ain't pumping blood, so there shouldn't be any blood loss.
-
 - Removed all one-tile puddles of infinite water in all forest types.
 
 - Made all gas stations have 0 - 5000 units of fuel instead of vanilla 40000 - 50000 units. Also made almost all locations in mapgen have the same 0 - 5000 units of fuel, including avgas. Also made almost all cars have zero fuel. There are places and cars where you could still find fuel, they are just very rare.
@@ -42,3 +40,5 @@ Despite I'm standing for realism side in "realism vs. gamism" debate in vanilla,
 - Integrated "Mutant NPCs" mod. I like the idea, it's fun, so why not?
 
 - Integrated "Extra Bandits" mod. Extra bandits of all sorts everywhere is exactly the thing I'd expect to emerge after the apocalypse.
+
+- Made bows and crossbows great again. Now they are more powerful in general: deal more damage (and don't rely on critical shots to be useful), have much lower dispersion, and have lower strength requirements.
