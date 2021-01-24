@@ -42,3 +42,5 @@ Despite I'm standing for realism side in "realism vs. gamism" debate in vanilla,
 - Integrated "Extra Bandits" mod. Extra bandits of all sorts everywhere is exactly the thing I'd expect to emerge after the apocalypse.
 
 - Made bows and crossbows great again. Now they are more powerful in general: deal more damage (and don't rely on critical shots to be useful), have much lower dispersion, and have lower strength requirements.
+
+- Added shrub with bee hive furniture from my old PR (https://github.com/CleverRaven/Cataclysm-DDA/pull/35323/).
