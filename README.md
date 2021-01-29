@@ -46,3 +46,6 @@ Despite I'm standing for realism side in "realism vs. gamism" debate in vanilla,
 - Added shrub with bee hive furniture from my old PR (https://github.com/CleverRaven/Cataclysm-DDA/pull/35323/).
 
 - Removed all turrets from military vehicles.
+
+# Translation
+To use translated version, simply unpack the corresponding archive (for example, "Russian.7z)" to the mod's main folder and overwrite all files when asked to. Important: don't let the mod have several versions of the same files (translated and un-translated ones), there should be only one version.
