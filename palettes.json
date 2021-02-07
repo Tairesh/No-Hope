@@ -742,8 +742,8 @@
     },
     "toilets": { "t": {  } },
     "nested": {
-      "h": { "chunks": [ [ "npc_bandit", 50 ], [ "npc_thug", 50 ], [ "null", 50 ] ] },
-      "f": { "chunks": [ [ "npc_bandit", 75 ], [ "npc_thug", 75 ], [ "null", 25 ] ] }
+      "h": { "chunks": [ [ "npc_bandit", 25 ], [ "npc_thug", 25 ], [ "null", 50 ] ] },
+      "f": { "chunks": [ [ "npc_bandit", 38 ], [ "npc_thug", 38 ], [ "null", 25 ] ] }
     }
   }
 ]
