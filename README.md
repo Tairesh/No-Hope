@@ -47,5 +47,7 @@ Despite I'm standing for realism side in "realism vs. gamism" debate in vanilla,
 
 - Removed all turrets from military vehicles.
 
+- All LMOE shelter now have a rather high chance to spawn bandits inside.
+
 # Translation
 To use translated version, simply unpack the corresponding archive (for example, "Russian.7z)" to the mod's main folder and overwrite all files when asked to. Important: don't let the mod have several versions of the same files (translated and un-translated ones), there should be only one version.
