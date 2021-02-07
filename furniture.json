@@ -12,12 +12,7 @@
     "flags": [ "TRANSPARENT", "DIGGABLE", "FLAMMABLE_ASH", "THIN_OBSTACLE", "SHRUB", "SHORT", "EMITTER" ],
     "emissions": [ "emit_bees" ],
     "examine_action": "harvest_furn",
-    "harvest_by_season": [
-      {
-        "seasons": [ "spring", "summer", "autumn" ],
-        "entries": [ { "drop": "honeycomb", "base_num": [ 0, 4 ] }, { "drop": "wax", "base_num": [ 0, 4 ] } ]
-      }
-    ],
+    "harvest_by_season": [ { "seasons": [ "spring", "summer", "autumn" ], "id": "shrub_with_bees" } ],
     "bash": {
       "str_min": 1,
       "str_max": 6,
