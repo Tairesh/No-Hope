@@ -10,5 +10,15 @@
     "ident": "ambushed",
     "copy-from": "ambushed",
     "extend": { "professions": [ "wasteland_cyborg" ] }
+  },
+  {
+    "type": "scenario",
+    "id": "world",
+    "name": "World",
+    "points": 0,
+    "description": "Blah blah blah.",
+    "allowed_locs": [ "sloc_world" ],
+    "start_name": "World",
+    "flags": [ "LONE_START" ]
   }
 ]

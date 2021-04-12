@@ -12,5 +12,12 @@
     "info": "Sets base stamina burn per 100 moves of the walking player.",
     "stype": "int",
     "value": 10
+  },
+  {
+    "type": "EXTERNAL_OPTION",
+    "name": "FORCED_SPAWN_STARTING_LOCATION",
+    "info": "If true, the game will forcibly spawn starting location at overmap coordinates [0,0,0].",
+    "stype": "bool",
+    "value": true
   }
 ]

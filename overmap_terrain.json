@@ -1,0 +1,18 @@
+[
+  {
+    "type": "overmap_terrain",
+    "id": "rock_border",
+    "name": "rock border",
+    "sym": "#",
+    "color": "white",
+    "flags": [ "NO_ROTATE" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "start_loc",
+    "name": "start location",
+    "sym": " ",
+    "color": "white",
+    "flags": [ "NO_ROTATE" ]
+  }
+]
