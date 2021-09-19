@@ -1,0 +1,13 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "no_hope_light",
+    "name": "No Hope Light",
+    "authors": [ "Night_Pryanik", "Tairesh" ],
+    "maintainers": [ "Tairesh" ],
+    "description": "No Hope without bandits, but with workbench menu and zombies reviving.",
+    "category": "content",
+    "dependencies": [ "dda" ],
+    "version": "2.7.1"
+  }
+]
